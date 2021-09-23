@@ -1,4 +1,4 @@
-# JSON - Lab
+# JSON - Lab on Branch 'student'
 
 ## Introduction
 
